@@ -188,3 +188,5 @@ hm=sns.heatmap(data=data)
 ![image](https://github.com/Sriram8452/EXNO-6-DS/assets/118708032/4bbbf59a-e638-4c7b-bf5c-5298f9bada3b)
 
 # Result:
+
+Thus, all the data visualization techniques of seaborn has been implemented.
